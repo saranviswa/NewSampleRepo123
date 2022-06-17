@@ -1,0 +1,13 @@
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.AssemblyReference.cache
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.SuggestedBindingRedirects.cache
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+D:\Cognizant_internship\EntityFramework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
